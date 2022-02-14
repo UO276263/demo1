@@ -6,6 +6,6 @@ public class demo {
 		//CAmbio desde master
 	}
 	//Cambio 2 desde mars
-	//Cambio para conflicto
+	//Cambio para problemas
 	//ja
 }
